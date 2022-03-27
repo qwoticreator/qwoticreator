@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwoticreator&show_icons=true&locale=en&layout=compact" alt="qwoticreator" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qwoticreator&show_icons=true&locale=en" alt="qwoticreator" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwoticreator&" alt="qwoticreator" /></p>
