@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/qwoticreator](https://github.com/qwoticreator)
 
-- 📝 I regularly write articles on [https://habr.com/ru/users/qwoticreator/](https://habr.com/ru/users/qwoticreator/)
-
 - 📫 How to reach me **qwoticreator@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
