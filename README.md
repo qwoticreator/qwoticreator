@@ -23,6 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwoticreator&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="qwoticreator" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qwoticreator&show_icons=true&locale=en&theme=tokyonight" alt="qwoticreator" /></p>
+<p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwoticreatord&show_icons=true&locale=en&layout=compact" alt="meshramaravind" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwoticreator&&theme=tokyonight" alt="qwoticreator" /></p>
+### 📊 My Github Stats
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=qwoticreator&show_icons=true&locale=en" alt="meshramaravind"/> </p>
